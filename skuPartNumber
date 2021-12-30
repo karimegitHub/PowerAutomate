@@ -1,0 +1,34 @@
+[
+  {
+    "skuPartName": "Microsoft 365 A3 for Faculty",
+    "skuPartNumber": "M365EDU_A3_FACULTY"
+  },
+  {
+    "skuPartName": "Office 365 A1 for Faculty",
+    "skuPartNumber": "STANDARDWOFFPACK_FACULTY"
+  },
+  {
+    "skuPartName": "Project Plan 3 for Faculty",
+    "skuPartNumber": "PROJECTPROFESSIONAL_FACULTY"
+  },
+  {
+    "skuPartName": "Power Automate per user plan",
+    "skuPartNumber": "FLOW_PER_USER"
+  },
+  {
+    "skuPartName": "Microsoft 365 Audio Conferencing Pay-Per-Minute for Faculty",
+    "skuPartNumber": "MCOMEETACPEA_FACULTY"
+  },
+  {
+    "skuPartName": "Viso Online Plan 1 for Faculty",
+    "skuPartNumber": "VISIOONLINE_PLAN1_FAC"
+  },
+  {
+    "skuPartName": "Dynamics 365 Sales Enterprise Edition",
+    "skuPartNumber": "DYN365_ENTERPRISE_SALES"
+  },
+  {
+    "skuPartName": "Dynamics 365 Team Members",
+    "skuPartNumber": "DYN365_TEAM_MEMBERS"
+  }
+]
